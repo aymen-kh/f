@@ -11,8 +11,7 @@ import java.util.List;
 import quote.model.Quote;
 
 /**
-
- 
+Add the dependencies between the quote and user class 
  *
  */
 public class QuoteDAO {
